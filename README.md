@@ -7,18 +7,18 @@
 
 ## 1. Libraries and Data used:
 1.1 Libraries: <br>
-    - seaborn <br>
-    - matplotlib <br>
-    - pandas <br>
-    - numpy <br>
-    - time <br>
-    - warnings <br>
-    - requests <br>
-    - selenium <br>
-    - re <br>
-    - unicodedata <br>
-    - wordcloud <br>
-    - wordcloud <br>
+    
+    - seaborn 
+    - matplotlib 
+    - pandas
+    - numpy
+    - time
+    - warnings
+    - requests 
+    - selenium
+    - re
+    - unicodedata
+    - wordcloud 
     
 1.2 Data source: 
 > Bumble:<br> [Bumble Web](https://fr1.bumble.com/get-started)
