@@ -56,24 +56,24 @@
 
 2.5.Documentation:
 
-    - name: the name under which the user registered, it does not have to be the real one, it can be a nickname <br>
-    - age: the user's age <br>
-    - location: where the user is at the moment he/she registered <br>
-    - story_about: short description that the user wrote about him/herself <br>
-    - job: the user's profession or where he/she works <br>
-    - education: where the user has studied or type of education he/she has <br>
-    - height: the user's height <br>
-    - intentions: what the user is looking for in the application at the relationship level <br>
-    - exercise: how often the user exercises <br>       
-    - educationTag: what level of education the user has <br> 
-    - drinking: how often or if the user drinks <br>      
-    - smoking: how often the user smokes or if he/she does <br>
-    - childrens: what family plans the user has <br> 
-    - religion: what religion the user practices <br>  
-    - politics: what political ideology the user has <br>  
-    - gender: the type of gender with which the user identifies<br>       
-    - zodiacSign: the user's zodiac sign<br>    
-    - profile: indicates whether the user was extracted from the “woman” or “man” profile <br>
+    - name: the name under which the user registered, it does not have to be the real one, it can be a nickname 
+    - age: the user's age
+    - location: where the user is at the moment he/she registered
+    - story_about: short description that the user wrote about him/herself 
+    - job: the user's profession or where he/she works 
+    - education: where the user has studied or type of education he/she has
+    - height: the user's height 
+    - intentions: what the user is looking for in the application at the relationship level 
+    - exercise: how often the user exercises    
+    - educationTag: what level of education the user has 
+    - drinking: how often or if the user drinks    
+    - smoking: how often the user smokes or if he/she does 
+    - childrens: what family plans the user has 
+    - religion: what religion the user practices  
+    - politics: what political ideology the user has  
+    - gender: the type of gender with which the user identifies       
+    - zodiacSign: the user's zodiac sign
+    - profile: indicates whether the user was extracted from the “woman” or “man” profile
 
 ## 3. Data Exploration & Visualization
 ![match](https://techcrunch.com/wp-content/uploads/2022/11/Compliments-Press-Image.png?w=1024)
@@ -92,15 +92,21 @@
 > VISUALIZATIONS:<br> [Tableau](https://public.tableau.com/app/profile/roraima.chavez/viz/bumble/bumble?publish=yes)
  
 ## <span style="color:darkslategrey">Q1.What type of companies/future sponsors can we identify? What sector are they related to? </span>
-Data shows that _Brazilian_ sharks do not react negatively when Brazil loses in the World Cup at all, with numbers in those periods being in all time lows. 
+
+POR DEFINIR
 
 ### <span style="color:darkslategrey"> Q2. How can we bring potential partners closer to users? </span>
 
-Data shows 
+POR DEFINIR 
 
 
-## <span style="color:darkslateblue"> Q3: How does this benefit our users?? </span>
-Data shows that _Brazilian_ sharks do not react negatively when Brazil loses in the World Cup at all, with numbers in those periods being in all time lows. 
+## <span style="color:darkslateblue"> Q3: How does this benefit our users? </span>
+
+POR DEFINIR 
+
+## <span style="color:darkslateblue"> Conclusion </span>
+
+POR DEFINIR 
 
 
 ![thanku](https://team.bumble.com/social-sharing.jpg)
