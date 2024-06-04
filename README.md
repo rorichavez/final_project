@@ -20,15 +20,22 @@
     - wordcloud <br>
     - wordcloud <br>
     
-1.2 Data source: (https://fr1.bumble.com/get-started)
-    - profiles: 
-        -- 27 year old women with tastes: everyone who lives in Barcelona. Maximum and minimum age range.
-        -- 27 year old boy with tastes: everyone who lives in Barcelona. Maximum and minimum age range.
+1.2 Data source: 
+> _Bumble:<br> [bumbleWeb](https://fr1.bumble.com/get-started)
+
+
+**Profiles:**
+- 27 year old women with tastes: everyone who lives in Barcelona. Maximum and minimum age range.
+- 27 year old boy with tastes: everyone who lives in Barcelona. Maximum and minimum age range.
     
 
 ## 2. Data Cleaning Documentation: 
-2.1. Add “profile” column to indicate whether the profile is female or male. <br>
+![tags](https://res.cloudinary.com/apartmentlist/image/fetch/f_auto,q_auto,t_renter_life_article/https://images.ctfassets.net/jeox55pd4d8n/7LmVkTOXPiCFRLBFiCk96K/dfd4f69f0b3b54e88d2bbb168d6186f0/Press_Date_Interest_Badges_US__Sourced_2.4.22___1_.png)
+
+2.1. Add “profile” column to indicate whether the profile is female or male <br>
+
 2.2. Drop duplicate rows <br>
+
 2.3. Merged both (women & men) datasets: <br>
     - Change columns names <br>
     - Remove "cm" in column height so is a int number <br>
@@ -36,7 +43,7 @@
     - Looking for duplicate column (taking into account that the profile of the column “profile” makes them different so I have to filter not taking into account this column) <br>
     - Use regex to make the job column more available <br>
 
-2.4. Visualization of more repitet words in about_me colums <br>
+2.4. Visualization of more repitet words in about_me colums: <br>
     - Define stop words in English and Spanish <br>
     - Define specific words to be deleted <br>
     - Remove NaN values and 'NaN' strings <br>
@@ -47,27 +54,30 @@
     - Function to generate a word cloud <br>
     - Define specific words to be deleted <br>
 
-2.5.Documentation:
-    - name: the name under which the user registered, it does not have to be the real one, it can be a nickname<br>
-    - age: the user's age<br>
-    - location: where the user is at the moment he/she registered<br>
-    - story_about: short description that the user wrote about him/herself<br>
-    - job: the user's profession or where he/she works<br>
-    - education: where the user has studied or type of education he/she has<br>
-    - height: the user's height<br>
-    - intentions: what the user is looking for in the application at the relationship level<br>
-    - exercise: how often the user exercises <br>       
-    - educationTag: what level of education the user has <br> 
-    - drinking: how often or if the user drinks <br>      
-    - smoking: how often the user smokes or if he/she does <br>
-    - childrens: what family plans the user has <br> 
-    - religion: what religion the user practices <br>  
-    - politics: what political ideology the user has <br>  
-    - gender: the type of gender with which the user identifies<br>       
-    - zodiacSign: the user's zodiac sign<br>    
-    - profile: indicates whether the user was extracted from the “woman” or “man” profile<br>
+2.5.**Documentation:**
+
+    - `name:` the name under which the user registered, it does not have to be the real one, it can be a nickname <br>
+    - `age:` the user's age <br>
+    - `location:` where the user is at the moment he/she registered <br>
+    - `story_about:` short description that the user wrote about him/herself <br>
+    - `job:` the user's profession or where he/she works <br>
+    - `education:` where the user has studied or type of education he/she has <br>
+    - `height:` the user's height <br>
+    - `intentions:` what the user is looking for in the application at the relationship level <br>
+    - `exercise:` how often the user exercises <br>       
+    - `educationTag:` what level of education the user has <br> 
+    - `drinking:` how often or if the user drinks <br>      
+    - `smoking:` how often the user smokes or if he/she does <br>
+    - `childrens:` what family plans the user has <br> 
+    - `religion:` what religion the user practices <br>  
+    - `politics:` what political ideology the user has <br>  
+    - `gender:` the type of gender with which the user identifies<br>       
+    - `zodiacSign:` the user's zodiac sign<br>    
+    - `profile:` indicates whether the user was extracted from the “woman” or “man” profile <br>
 
 ## 3. Data Exploration & Visualization
+![pinterest](https://i.pinimg.com/736x/47/fb/17/47fb178f463fac74702c32cca0e0e168.jpg)
+
 3.1. Generate general gender view by profiles <br>
 3.2. Display by gender “women” and “men”: age group, location, jobs and education <br>
 3.3. Display by gender “women” and “men” separately the percentage by subcategory in categories such as: Family Plans and Lifestyle <br>
@@ -79,8 +89,8 @@
 
 ## 4. Analysis & Conclusion
 ![bumble](https://bumble-buzz.com/wp-content/uploads/2024/04/relaunch-bumble.png?w=628&h=460&crop=1.jpeg)
-![Tableau](https://public.tableau.com/app/profile/roraima.chavez/viz/bumble/bumble?publish=yes)
-
+> VISUALIZATIONS:<br> [Tableau](https://public.tableau.com/app/profile/roraima.chavez/viz/bumble/bumble?publish=yes)
+ 
 ## <span style="color:darkslategrey">Q1.What type of companies/future sponsors can we identify? What sector are they related to? </span>
 Data shows that _Brazilian_ sharks do not react negatively when Brazil loses in the World Cup at all, with numbers in those periods being in all time lows. 
 
@@ -93,6 +103,6 @@ Data shows
 Data shows that _Brazilian_ sharks do not react negatively when Brazil loses in the World Cup at all, with numbers in those periods being in all time lows. 
 
 
-### Thank you!
 ![thanku](https://team.bumble.com/social-sharing.jpg)
+### Thank you!
 
