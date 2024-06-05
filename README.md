@@ -95,6 +95,8 @@
 > FOUND MORE VISUALIZATIONS:<br> [Tableau](https://public.tableau.com/app/profile/roraima.chavez/viz/bumble/bumble?publish=yes)
 
 #### General View 
+![gv](visualization/photos/gv.jpg)
+
 ![gv](/Users/roraimachavez/Downloads/7.IRONHACK/Projects/final_project/visualization/photos/gv.jpg)
 ![gv2](/Users/roraimachavez/Downloads/7.IRONHACK/Projects/final_project/visualization/photos/gv2.jpg)
 
