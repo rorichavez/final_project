@@ -95,21 +95,23 @@
 
 Choose partners that are related to the users' interests. For example:
 
-- *Food:* Partner with restaurants, food delivery services, cooking class providers.
+- **Food:** Partner with restaurants, food delivery services, cooking class providers.
 
-- *Music:* Partner with music streaming platforms, concert venues, merchandising retailers, instrument stores or festivals. 
+- **Music:** Partner with music streaming platforms, concert venues, merchandising retailers, instrument stores or festivals. 
 
-- *Travel:* Partner with airlines, hotels, travel agencies, tour operators or local attractions based on users' travel destinations, preferred activities (e.g. adventure travel, cultural experiences).
+- **Travel:** Partner with airlines, hotels, travel agencies, tour operators or local attractions based on users' travel destinations, preferred activities (e.g. adventure travel, cultural experiences).
 
-- *Sports:* Partner with sports teams, sportswear brands, sporting goods retailers or gyms. Even host sporting events. 
+- **Sports:** Partner with sports teams, sportswear brands, sporting goods retailers or gyms. Even host sporting events. 
 
-- *Film and art:* Partner with movie studios, art galleries, museums, streaming services with a strong movie collection or ticketing platforms.
+- **Film and art:** Partner with movie studios, art galleries, museums, streaming services with a strong movie collection or ticketing platforms.
+
 
 ## <span style="color:darkslateblue"> Partner Selection Based on User Demographics and Ideologies </span>
 
 When selecting partners, it is crucial to consider specific demographics and ideologies. This involves understanding the age distribution, gender balance, geographic distribution, predominant interests and general ideological leanings of your users. 
 
 By prioritizing partners who fit these characteristics, you can ensure that partnerships resonate with your audience and increase the overall appeal of your events.
+
 
 ### <span style="color:darkslategrey"> Non-Invasive Promotion for Female Users </span>
 
