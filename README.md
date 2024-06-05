@@ -91,19 +91,19 @@
 > FIND THE VISUALIZATIONS:<br> [Tableau](https://public.tableau.com/app/profile/roraima.chavez/viz/bumble/bumble?publish=yes)
 
 
-## 4. BI Tools
-> FOUND MORE VISUALIZATIONS:<br> [Tableau](https://public.tableau.com/app/profile/roraima.chavez/viz/bumble/bumble?publish=yes)
+## 4. Visualizations
+
 
 #### General View 
 ![gv](visualization/photos/gv.jpg)
 
-![gv](/Users/roraimachavez/Downloads/7.IRONHACK/Projects/final_project/visualization/photos/gv.jpg)
-![gv2](/Users/roraimachavez/Downloads/7.IRONHACK/Projects/final_project/visualization/photos/gv2.jpg)
+![gv](visualization/photos/gv2.jpg)
 
 #### Most Repeated Words
-![wc](/Users/roraimachavez/Downloads/7.IRONHACK/Projects/final_project/visualization/photos/wc.jpg)
+![gv](visualization/photos/wc.jpg)
 
 
+> FOUND MORE VISUALIZATIONS:<br> [Tableau](https://public.tableau.com/app/profile/roraima.chavez/viz/bumble/bumble?publish=yes)
 
 ## 5. Analysis & Conclusion
 ![bumble](https://bumble-buzz.com/wp-content/uploads/2024/04/relaunch-bumble.png?w=628&h=460&crop=1.jpeg)
