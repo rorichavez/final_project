@@ -54,7 +54,7 @@
     - Function to generate a word cloud <br>
     - Define specific words to be deleted <br>
 
-2.5.Documentation:
+2.5. Documentation:
 
     - name: the name under which the user registered, it does not have to be the real one, it can be a nickname 
     - age: the user's age
@@ -90,23 +90,39 @@
 ## 4. Analysis & Conclusion
 ![bumble](https://bumble-buzz.com/wp-content/uploads/2024/04/relaunch-bumble.png?w=628&h=460&crop=1.jpeg)
 > VISUALIZATIONS:<br> [Tableau](https://public.tableau.com/app/profile/roraima.chavez/viz/bumble/bumble?publish=yes)
- 
-## <span style="color:darkslategrey">Q1.What type of companies/future sponsors can we identify? What sector are they related to? </span>
 
-POR DEFINIR
+## <span style="color:darkslateblue"> Identifying Potential Partners Aligned with User Interests </span>
 
-### <span style="color:darkslategrey"> Q2. How can we bring potential partners closer to users? </span>
+Choose partners that are related to the users' interests. For example:
 
-POR DEFINIR 
+Food: Partner with restaurants, food delivery services, cooking class providers.
+
+Music: Partner with music streaming platforms, concert venues, merchandising retailers, instrument stores or festivals. 
+
+Travel: Partner with airlines, hotels, travel agencies, tour operators or local attractions based on users' travel destinations, preferred activities (e.g. adventure travel, cultural experiences).
+
+Sports: Partner with sports teams, sportswear brands, sporting goods retailers or gyms. Even host sporting events. 
+
+Film and art: Partner with movie studios, art galleries, museums, streaming services with a strong movie collection or ticketing platforms.
+
+## <span style="color:darkslategrey"> Partner Selection Based on User Demographics and Ideologies </span>
+
+When selecting partners, it is crucial to consider specific demographics and ideologies. This involves understanding the age distribution, gender balance, geographic distribution, predominant interests and general ideological leanings of your users. 
+
+By prioritizing partners who fit these characteristics, you can ensure that partnerships resonate with your audience and increase the overall appeal of your events.
+
+### <span style="color:darkslategrey"> Non-Invasive Promotion for Female Users </span>
+
+Given the smaller female user base, it is essential to take a non-intrusive approach to promoting new partners, especially to female users. 
+
+Avoid overwhelming or discouraging female users with excessive promotion, as this may hinder their willingness to participate in the application. Instead, focus on creating a welcoming and inclusive environment that attracts and retains users.
 
 
-## <span style="color:darkslateblue"> Q3: How does this benefit our users? </span>
+## <span style="color:darkslateblue"> Mutually Beneficial Partnerships </span>
 
-POR DEFINIR 
+Look for partners with whom you can collaborate on events or promotions that bring mutual benefits to both parties. 
 
-## <span style="color:darkslateblue"> Conclusion </span>
-
-POR DEFINIR 
+This win-win approach ensures that your partnerships not only enhance the user experience, but also bring value to your partners. Think about co-branded events, exclusive offers or joint marketing campaigns that benefit both your users and your partners.
 
 
 ![thanku](https://team.bumble.com/social-sharing.jpg)
