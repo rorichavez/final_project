@@ -91,7 +91,7 @@
 ![bumble](https://bumble-buzz.com/wp-content/uploads/2024/04/relaunch-bumble.png?w=628&h=460&crop=1.jpeg)
 > VISUALIZATIONS:<br> [Tableau](https://public.tableau.com/app/profile/roraima.chavez/viz/bumble/bumble?publish=yes)
 
-## <span style="color:darkslateblue"> Identifying Potential Partners Aligned with User Interests </span>
+### <span style="color:darkslateblue"> Identifying Potential Partners Aligned with User Interests </span>
 
 Choose partners that are related to the users' interests. For example:
 
@@ -106,7 +106,7 @@ Choose partners that are related to the users' interests. For example:
 - **Film and art:** Partner with movie studios, art galleries, museums, streaming services with a strong movie collection or ticketing platforms.
 
 
-## <span style="color:darkslateblue"> Partner Selection Based on User Demographics and Ideologies </span>
+### <span style="color:darkslateblue"> Partner Selection Based on User Demographics and Ideologies </span>
 
 When selecting partners, it is crucial to consider specific demographics and ideologies. This involves understanding the age distribution, gender balance, geographic distribution, predominant interests and general ideological leanings of your users. 
 
@@ -120,7 +120,7 @@ Given the smaller female user base, it is essential to take a non-intrusive appr
 Avoid overwhelming or discouraging female users with excessive promotion, as this may hinder their willingness to participate in the application. Instead, focus on creating a welcoming and inclusive environment that attracts and retains users.
 
 
-## <span style="color:darkslateblue"> Mutually Beneficial Partnerships </span>
+### <span style="color:darkslateblue"> Mutually Beneficial Partnerships </span>
 
 Look for partners with whom you can collaborate on events or promotions that bring mutual benefits to both parties. 
 
