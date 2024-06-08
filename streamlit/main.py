@@ -31,7 +31,7 @@ st.markdown("<h3 style='text-align: center;'>Choose Demographics</h3>", unsafe_a
 
 ubi = st.selectbox("Select Location",list(df.location.unique()))
 
-age = st.slider(label = "Select Range Age", min_value = 18, max_value = 74)
+age = st.slider(label = "Select Age", min_value = 18, max_value = 74)
 
 job = st.selectbox("Select Job",list(df.job.unique()))
 
@@ -54,7 +54,7 @@ drink = st.selectbox("Select Drinking preferences",list(df.drinking.unique()))
 
 smoke = st.selectbox("Select Smoking preferences",list(df.smoking.unique()))
 
-st.markdown("<h3 style='text-align: center;'>Choose Idiologias</h3>", unsafe_allow_html=True)
+st.markdown("<h3 style='text-align: center;'>Choose Idiologies</h3>", unsafe_allow_html=True)
 
 poli = st.selectbox("Select Political Idiology",list(df.politics.unique()))
 
